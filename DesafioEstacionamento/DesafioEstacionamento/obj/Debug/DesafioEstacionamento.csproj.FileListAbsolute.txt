@@ -1,0 +1,7 @@
+C:\Users\js33n\OneDrive\Documentos\Wex Bootcamp\WexBootcamp\DesafioEstacionamento\DesafioEstacionamento\bin\Debug\DesafioEstacionamento.exe.config
+C:\Users\js33n\OneDrive\Documentos\Wex Bootcamp\WexBootcamp\DesafioEstacionamento\DesafioEstacionamento\bin\Debug\DesafioEstacionamento.exe
+C:\Users\js33n\OneDrive\Documentos\Wex Bootcamp\WexBootcamp\DesafioEstacionamento\DesafioEstacionamento\bin\Debug\DesafioEstacionamento.pdb
+C:\Users\js33n\OneDrive\Documentos\Wex Bootcamp\WexBootcamp\DesafioEstacionamento\DesafioEstacionamento\obj\Debug\DesafioEstacionamento.csproj.AssemblyReference.cache
+C:\Users\js33n\OneDrive\Documentos\Wex Bootcamp\WexBootcamp\DesafioEstacionamento\DesafioEstacionamento\obj\Debug\DesafioEstacionamento.csproj.CoreCompileInputs.cache
+C:\Users\js33n\OneDrive\Documentos\Wex Bootcamp\WexBootcamp\DesafioEstacionamento\DesafioEstacionamento\obj\Debug\DesafioEstacionamento.exe
+C:\Users\js33n\OneDrive\Documentos\Wex Bootcamp\WexBootcamp\DesafioEstacionamento\DesafioEstacionamento\obj\Debug\DesafioEstacionamento.pdb
