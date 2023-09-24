@@ -1,0 +1,2 @@
+C:\Users\js33n\OneDrive\Documentos\Wex Bootcamp\WexBootcamp\DesafioAbstracao\DesafioAbstracaoCelular\DesafioAbstracaoCelular\obj\Debug\DesafioAbstracaoCelular.csproj.AssemblyReference.cache
+C:\Users\js33n\OneDrive\Documentos\Wex Bootcamp\WexBootcamp\DesafioAbstracao\DesafioAbstracaoCelular\DesafioAbstracaoCelular\obj\Debug\DesafioAbstracaoCelular.csproj.CoreCompileInputs.cache
