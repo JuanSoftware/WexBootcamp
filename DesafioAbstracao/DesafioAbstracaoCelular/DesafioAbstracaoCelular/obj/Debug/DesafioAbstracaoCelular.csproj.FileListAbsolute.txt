@@ -1,2 +1,7 @@
 C:\Users\js33n\OneDrive\Documentos\Wex Bootcamp\WexBootcamp\DesafioAbstracao\DesafioAbstracaoCelular\DesafioAbstracaoCelular\obj\Debug\DesafioAbstracaoCelular.csproj.AssemblyReference.cache
 C:\Users\js33n\OneDrive\Documentos\Wex Bootcamp\WexBootcamp\DesafioAbstracao\DesafioAbstracaoCelular\DesafioAbstracaoCelular\obj\Debug\DesafioAbstracaoCelular.csproj.CoreCompileInputs.cache
+C:\Users\js33n\OneDrive\Documentos\Wex Bootcamp\WexBootcamp\DesafioAbstracao\DesafioAbstracaoCelular\DesafioAbstracaoCelular\bin\Debug\DesafioAbstracaoCelular.exe.config
+C:\Users\js33n\OneDrive\Documentos\Wex Bootcamp\WexBootcamp\DesafioAbstracao\DesafioAbstracaoCelular\DesafioAbstracaoCelular\bin\Debug\DesafioAbstracaoCelular.exe
+C:\Users\js33n\OneDrive\Documentos\Wex Bootcamp\WexBootcamp\DesafioAbstracao\DesafioAbstracaoCelular\DesafioAbstracaoCelular\bin\Debug\DesafioAbstracaoCelular.pdb
+C:\Users\js33n\OneDrive\Documentos\Wex Bootcamp\WexBootcamp\DesafioAbstracao\DesafioAbstracaoCelular\DesafioAbstracaoCelular\obj\Debug\DesafioAbstracaoCelular.exe
+C:\Users\js33n\OneDrive\Documentos\Wex Bootcamp\WexBootcamp\DesafioAbstracao\DesafioAbstracaoCelular\DesafioAbstracaoCelular\obj\Debug\DesafioAbstracaoCelular.pdb

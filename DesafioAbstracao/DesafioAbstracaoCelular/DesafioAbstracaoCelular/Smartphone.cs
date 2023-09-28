@@ -6,15 +6,19 @@ using System.Threading.Tasks;
 
 namespace DesafioAbstracaoCelular
 {
-    internal class Smartphone
+    internal abstract class Smartphone
     {
         public string Numero { get; set; }
-        // TODO: Implementar as propriedades faltantes de acordo com o diagrama
+        public string Modelo { get; set; } 
+        public string IMei { get; set; }   
+        public int Memoria { get; set; }    
 
-        public Smartphone(string numero)
+        public Smartphone(string numero, string modelo, string imei, int memoria)
         {
             Numero = numero;
-            // TODO: Passar os parâmetros do construtor para as propriedades
+            Modelo = modelo;
+            IMei = imei;
+            Memoria = memoria;
         }
 
         public void Ligar()
@@ -28,5 +32,7 @@ namespace DesafioAbstracaoCelular
         }
 
         public abstract void InstalarAplicativo(string nomeApp);
+
+        
     }
 }
