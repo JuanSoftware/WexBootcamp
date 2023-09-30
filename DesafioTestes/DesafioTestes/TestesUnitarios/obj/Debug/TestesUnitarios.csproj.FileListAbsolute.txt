@@ -1,0 +1,2 @@
+C:\Users\js33n\OneDrive\Documentos\Wex Bootcamp\WexBootcamp\DesafioTestes\DesafioTestes\TestesUnitarios\obj\Debug\TestesUnitarios.csproj.AssemblyReference.cache
+C:\Users\js33n\OneDrive\Documentos\Wex Bootcamp\WexBootcamp\DesafioTestes\DesafioTestes\TestesUnitarios\obj\Debug\TestesUnitarios.csproj.CoreCompileInputs.cache

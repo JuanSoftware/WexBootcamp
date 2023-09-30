@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\js33n\\OneDrive\\Documentos\\Wex Bootcamp\\WexBootcamp\\DesafioTestes\\DesafioTestes\\TestesUnitarios\\TestesUnitarios.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\js33n\\OneDrive\\Documentos\\Wex Bootcamp\\WexBootcamp\\DesafioTestes\\DesafioTestes\\TestesUnitarios\\TestesUnitarios.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\js33n\\OneDrive\\Documentos\\Wex Bootcamp\\WexBootcamp\\DesafioTestes\\DesafioTestes\\TestesUnitarios\\TestesUnitarios.csproj",
+        "projectName": "TestesUnitarios",
+        "projectPath": "C:\\Users\\js33n\\OneDrive\\Documentos\\Wex Bootcamp\\WexBootcamp\\DesafioTestes\\DesafioTestes\\TestesUnitarios\\TestesUnitarios.csproj",
+        "packagesPath": "C:\\Users\\js33n\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\js33n\\OneDrive\\Documentos\\Wex Bootcamp\\WexBootcamp\\DesafioTestes\\DesafioTestes\\TestesUnitarios\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\js33n\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
